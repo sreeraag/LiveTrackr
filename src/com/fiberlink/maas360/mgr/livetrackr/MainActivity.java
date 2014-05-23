@@ -26,5 +26,6 @@ public class MainActivity extends Activity {
 		// Since this is just a wrapper to start the main activity,
 		// finish it after launching RegisterActivity
 		finish();
+		//htis isa;s
 	}
 }
